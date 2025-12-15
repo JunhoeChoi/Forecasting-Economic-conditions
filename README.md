@@ -11,7 +11,7 @@ Here, I developed a Monte Carlo simulation model with a Markov Chain transition 
 * GARCH(1,1)
 
 A GARCH(1,1) model is applied to MSCI ACWI returns to estimate time-varying volatility. The resulting volatility estimates, together with returns, serve as key features for clustering and regime identification.
-(Details in https://github.com/JunhoeChoi/Forecasting-Economic-conditions/blob/main/MSCI_Analysis_0905.ipynb)
+(See details in [MSCI Analysis](MSCI_Analysis_0905.ipynb))
 
 * Gaussian Mixture Model(GMM)
 
@@ -46,7 +46,7 @@ Here, I developed a Monte Carlo simulation model with a Markov Chain transition 
 * GARCH(1,1)
 
 A GARCH(1,1) model is applied to MSCI ACWI returns to estimate time-varying volatility. The resulting volatility estimates, together with returns, serve as key features for clustering and regime identification.
-(Details in https://github.com/JunhoeChoi/Forecasting-Economic-conditions/blob/main/MSCI_Analysis_0905.ipynb)
+(See details in [MSCI Analysis](MSCI_Analysis_0905.ipynb))
 
 * Gaussian Mixture Model(GMM)
 
@@ -69,5 +69,4 @@ Cluster 5: Mild Postive Return, Lowest Volatility
 
 ## Results
 ![output](output.png)
-
 
